@@ -8,7 +8,7 @@ Run `node index.js` for a test.
 * ` require sequelize ` : library for connection.
 * ` barbearia ` : database
 * ` root ` : user database
-* ` 123456  ` : senha databse
+* ` 123456  ` : password databse
 * ` localhost ` : your hostname
 * ` dialect ` : type database
 * ` port ` : port service
